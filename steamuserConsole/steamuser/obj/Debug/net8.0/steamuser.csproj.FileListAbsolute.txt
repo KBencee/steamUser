@@ -1,0 +1,14 @@
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\bin\Debug\net8.0\steamuser.exe
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\bin\Debug\net8.0\steamuser.deps.json
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\bin\Debug\net8.0\steamuser.runtimeconfig.json
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\bin\Debug\net8.0\steamuser.dll
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\bin\Debug\net8.0\steamuser.pdb
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.AssemblyInfoInputs.cache
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.AssemblyInfo.cs
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.csproj.CoreCompileInputs.cache
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.dll
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\refint\steamuser.dll
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.pdb
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\steamuser.genruntimeconfig.cache
+C:\Users\kiss.bence\source\repos\steamuser\steamuser\obj\Debug\net8.0\ref\steamuser.dll

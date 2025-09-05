@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|c:\\users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\feladatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|solutionrelative:steamuser\\feladatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|c:\\users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\steamuser.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|solutionrelative:steamuser\\steamuser.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|c:\\users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|solutionrelative:steamuser\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|c:\\users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAC03059-2AE2-4645-9FB4-42B41CE620FC}|steamuser\\steamuser.csproj|solutionrelative:steamuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feladatok.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Feladatok.cs",
+              "RelativeDocumentMoniker": "steamuser\\Feladatok.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Feladatok.cs",
+              "RelativeToolTip": "steamuser\\Feladatok.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:39:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "steamUser.csv",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\steamUser.csv",
+              "RelativeDocumentMoniker": "steamuser\\steamUser.csv",
+              "ToolTip": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\steamUser.csv",
+              "RelativeToolTip": "steamuser\\steamUser.csv",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-09-05T06:31:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jatek.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Jatek.cs",
+              "RelativeDocumentMoniker": "steamuser\\Jatek.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Jatek.cs",
+              "RelativeToolTip": "steamuser\\Jatek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:28:50.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Program.cs",
+              "RelativeDocumentMoniker": "steamuser\\Program.cs",
+              "ToolTip": "C:\\Users\\kiss.bence\\source\\repos\\steamuser\\steamuser\\Program.cs",
+              "RelativeToolTip": "steamuser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:18:56.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
